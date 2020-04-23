@@ -1,1 +1,1 @@
-# NeuralNetwork_and_neuraDeepLearningProjects
+# NeuralNetwork_and_DeepLearningProjects
